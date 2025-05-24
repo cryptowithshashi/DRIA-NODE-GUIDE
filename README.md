@@ -59,7 +59,7 @@ Install Dria Launcher - linux/MacOS
 ```
 You can enter refer code to get points
 ```bash
-  sudo dkn-compute-launcher referrals
+  dkn-compute-launcher referrals
 
 ```
  - use arrows and choose 2nd option and enter the code
@@ -72,7 +72,7 @@ Create screen so that even if you close the node will be running
 
 Run the node
 ```bash
-  sudo dkn-compute-launcher start
+  dkn-compute-launcher start
 ```
  - Create a new wallet and enter your `private key`
  - When prompted to choose a model, select one from the list, you can choose gemini
